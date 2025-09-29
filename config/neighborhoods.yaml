@@ -1,0 +1,61 @@
+central:
+  cbd:
+    center: [1.2840355, 103.8420201]
+    radius: 1200
+    region: central
+    
+  bras_basah:
+    center: [1.2958975, 103.8547797]
+    radius: 1200
+    region: central
+    
+  orchard:
+    center: [1.3028628, 103.8477971]
+    radius: 1200
+    region: central
+
+north:
+  balestier:
+    center: [1.3234477, 103.8480894]
+    radius: 1200
+    region: north
+    
+  upper_thomson:
+    center: [1.3545179, 103.8351714]
+    radius: 1200
+    region: north
+    
+  serangoon_gardens:
+    center: [1.3603030, 103.8686115]
+    radius: 1200
+    region: north
+
+east:
+  geylang:
+    center: [1.3147520, 103.8837181]
+    radius: 1200
+    region: east
+    
+  katong:
+    center: [1.3088691, 103.9044623]
+    radius: 1200
+    region: east
+    
+  siglap:
+    center: [1.3135075, 103.9256521]
+    radius: 1200
+    region: east
+
+west:
+  holland_village:
+    center: [1.3120885, 103.7958535]
+    radius: 1200
+    region: west
+  tiong_bahru:
+    center: [1.2809413, 103.8226811]
+    radius: 1200
+    region: west
+  queenstown:
+    center: [1.2872333, 103.7908553]
+    radius: 1200
+    region: west

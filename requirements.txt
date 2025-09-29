@@ -1,0 +1,6 @@
+dotenv
+folium
+googlemaps
+pandas
+datetime
+pyyaml
